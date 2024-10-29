@@ -29,7 +29,7 @@ export default function hero() {
           </div>
           <div className=" col-xl-7 col-lg-6 col-md-12 text-lg-right text-center">
                {/* <img src="../public/hero-img.png" alt="" class="img-fluid"/> */}
-               <img src={herome} alt="" />
+               <img src={herome} alt="HeroImage"  className='img-fluid'/>
           </div>
       </div>
   </div>

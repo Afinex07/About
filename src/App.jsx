@@ -16,11 +16,13 @@
 import React from 'react'
 import Hero from './hero'
 import About from './about'
+import Services from './Services'
 export default function App() {
   return (
     <div>
       <Hero />
       <About />
+      <Services />
     </div>
   )
 }
